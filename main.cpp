@@ -33,88 +33,113 @@ arm.rotateCounterClockwise(); //demonstrates CamelCase
 
 /*
  1)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: car
+ action 1: The car drives
+ action 2: The car stops
+ action 3: The car crashes violently 
  */
-
+car.drive();
+car.stop();
+car.crashViolently();
 
 /*
  2)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: shark
+ action 1: the shark hunts for a meal
+ action 2: The shark eats a meal
+ action 3: The shark kills a prey
  */
-
+shark.huntsForMeal();
+shark.eatsMeal();
+shark.killsPrey();
 /*
  3)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: fish
+ action 1: the fish eats algae
+ action 2: the fish swims in sea
+ action 3: the fish mates madly with lover
  */
-
+fish.eatAlgae();
+fish.swimInSea();
+fish.mateWithLover();
 
 /*
  4)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: plane
+ action 1: the plane acsends to the sky
+ action 2: the plane descends to the ground
+ action 3: the plane crashes into the ground 
  */
+plane.ascendToSky();
+plane.descendToGround();
+plane.crashIntoGround();
 
 /*
  5)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: monkey
+ action 1: the monkey climbs up
+ action 2: the monkey climbs down 
+ action 3: the monkey eats banana
  */
-
+monkey.climbUp();
+monkey.climbDown();
+monkey.eatBanana();
 
 /*
- 6)
+ 6) snake
  Noun:
- action 1:
- action 2:
- action 3:
+ action 1: snake stalks prey
+ action 2: snake hisses
+ action 3: snake bites prey
  */
-
+snake.stalkPrey();
+snake.hiss();
+snake.bitePrey();
 /*
  7)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:cow
+ action 1: the cow grazes on grass
+ action 2: the cow moos
+ action 3: the cow sleeps
  */
-
+cow.grazeOnGrass();
+cow.moo();
+cow.sleep();
 
 /*
  8)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:gun
+ action 1: the gun shoots at target
+ action 2: the gun reloads
+ action 3: the gun dismantles
  */
+gun.shootTarget();
+gun.reload();
+gun.dismantle();
+
 
 /*
  9)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: door
+ action 1: the door opens
+ action 2: the door closes
+ action 3: the door locks
  */
+door.open();
+door.close();
+door.lock();
 
 
 /*
- 10)
+ 10) fighter
  Noun:
- action 1:
- action 2:
- action 3:
+ action 1: the fighter punches
+ action 2: the fighter kicks
+ action 3: the fighter grapples
  */
+fighter.punch();
+fighter.kick();
+fighter.grapple();
 
 
 #endif
